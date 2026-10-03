@@ -1,5 +1,7 @@
-# Kikomono tool-site-template
+# Kikomono Tools
 
-Browser-only PDF merge, extraction, rotation and JPG/PNG conversion. Existing word counter at /word-counter/. pdf-lib 1.17.1 is vendored with MIT license; no file conversion server.
+Live: https://tool.kikomono.com/
 
-Static Cloudflare Pages deployment: output site/, no build command. No credentials or private documents. Hosted independently from the main-site repository.
+Local PDF toolbox, arithmetic/percentage calculator, and word counter. Vendored pdf-lib 1.17.1 with MIT license.
+
+Static Pages site/ output; no build command, account, backend, advertisement or affiliate link. Main repository is isolated.
