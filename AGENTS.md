@@ -1,0 +1,1 @@
+Keep this project isolated from vps-deals-promo-radar. No credentials, personal tax or financial records. Static files only; no tracking or advertisements without user authorization. Source factual product statements; mark uncertain parameters as unverified. Preserve working accessibility and canonical URLs. Verify functionality and live deployment after changes.
